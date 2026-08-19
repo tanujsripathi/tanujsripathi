@@ -21,8 +21,7 @@ HTML CSS JavaScript
 Tools & Platforms:
 Git GitHub VS Code
 
-📌 Featured Projects
-Here are some of the projects I've worked on:
+
 
 🔹 Project 1 — Movie Quiz Web Application is an interactive trivia platform where users can test their film knowledge. Built with a responsive frontend and a PHP backend, it delivers dynamic questions, processes user choices, and provides real-time scoring.
 
@@ -35,7 +34,7 @@ Database Management
 Software Development Practices
 📊 GitHub Stats
 🤝 Connect With Me
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/tanuj-sripathi
 📧 Email: phanibalatanujsripathi@gmail.com
 🐙 GitHub: You're already here!
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
