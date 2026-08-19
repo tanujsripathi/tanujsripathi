@@ -35,8 +35,8 @@ Database Management
 Software Development Practices
 📊 GitHub Stats
 🤝 Connect With Me
-💼 LinkedIn: Add your LinkedIn profile
-📧 Email: Add your professional email
+💼 LinkedIn: 
+📧 Email: phanibalatanujsripathi@gmail.com
 🐙 GitHub: You're already here!
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
