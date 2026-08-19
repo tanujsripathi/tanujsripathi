@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Tanuj Sripathi 👋
+🎓 3rd Year Information Technology Student
+💻 Passionate about Software Development, Web Technologies & Problem Solving
 
-<!--
-**tanujsripathi/tanujsripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an IT student who enjoys learning new technologies, building projects, and improving my programming skills through hands-on experience.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Currently pursuing B.Tech in Information Technology
+🌱 Continuously learning and exploring new technologies
+💡 Interested in Software Development & Web Development
+🧩 Enjoy solving programming and problem-solving challenges
+🔨 Building projects to strengthen my technical skills
+🤝 Open to collaborating on interesting projects
+🛠️ Technologies & Skills
+Languages:
+C C++ Java Python JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Technologies:
+HTML CSS JavaScript
+
+Tools & Platforms:
+Git GitHub VS Code
+
+📌 Featured Projects
+Here are some of the projects I've worked on:
+
+🔹 Project 1 — Movie Quiz Web Application is an interactive trivia platform where users can test their film knowledge. Built with a responsive frontend and a PHP backend, it delivers dynamic questions, processes user choices, and provides real-time scoring.
+
+🚧 More projects coming soon!
+
+📚 Currently Learning
+Advanced Programming & Data Structures
+Web Development
+Database Management
+Software Development Practices
+📊 GitHub Stats
+🤝 Connect With Me
+💼 LinkedIn: Add your LinkedIn profile
+📧 Email: Add your professional email
+🐙 GitHub: You're already here!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+--Tanuj Sripathi
